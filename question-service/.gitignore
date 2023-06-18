@@ -1,0 +1,13 @@
+### idea
+/.idea
+*.iml
+*.ipr
+/out
+
+### gradle
+/.gradle
+/build
+
+### Environment Configuration
+application-*.yml
+!application-env.template.yml

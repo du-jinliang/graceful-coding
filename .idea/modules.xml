@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/graceful-coding.iml" filepath="$PROJECT_DIR$/graceful-coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/graceful-coding.question-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/graceful-coding.question-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/graceful-coding.question-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/graceful-coding.question-service.test.iml" />
+    </modules>
+  </component>
+</project>
